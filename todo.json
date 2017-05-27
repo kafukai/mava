@@ -19,7 +19,9 @@
 		{
 			"done": false,
 			"taskTitle": "QPP Pastec SDK",
-			"taskDescription": []
+			"taskDescription": [
+				"wrap Pastec image recognition into a QPP checkin API call\n"
+			]
 		},
 		{
 			"done": false,
