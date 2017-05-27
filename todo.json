@@ -29,6 +29,10 @@
 			"taskDescription": [
 				"Do stuff and so on"
 			]
+		},
+		{
+			"done": false,
+			"taskDescription": []
 		}
 	]
 }
