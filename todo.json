@@ -10,7 +10,7 @@
 		},
 		{
 			"done": false,
-			"taskTitle": "QPP global checkin limit",
+			"taskTitle": "QPP global daily checkin limit",
 			"taskDescription": []
 		},
 		{
@@ -20,21 +20,12 @@
 		},
 		{
 			"done": false,
-			"taskTitle": "QPP test some more",
+			"taskTitle": "QPP admin per-user checkin limit",
 			"taskDescription": []
 		},
 		{
 			"done": false,
-			"taskTitle": "QPP test",
-			"taskDescription": []
-		},
-		{
-			"done": false,
-			"taskTitle": "and another test",
-			"taskDescription": []
-		},
-		{
-			"done": false,
+			"taskTitle": "QPP Pastec SDK",
 			"taskDescription": []
 		}
 	]
