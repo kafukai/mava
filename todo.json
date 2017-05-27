@@ -3,13 +3,6 @@
 	"task": [
 		{
 			"done": false,
-			"taskTitle": "Do stuff",
-			"taskDescription": [
-				"Do stuff and so on"
-			]
-		},
-		{
-			"done": false,
 			"taskTitle": "QPP global daily checkin limit",
 			"taskDescription": []
 		},
@@ -27,6 +20,13 @@
 			"done": false,
 			"taskTitle": "QPP Pastec SDK",
 			"taskDescription": []
+		},
+		{
+			"done": false,
+			"taskTitle": "Do stuff",
+			"taskDescription": [
+				"Do stuff and so on"
+			]
 		}
 	]
 }
