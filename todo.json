@@ -15,6 +15,11 @@
 		},
 		{
 			"done": false,
+			"taskTitle": "QPP admin link user to one or more brands",
+			"taskDescription": []
+		},
+		{
+			"done": false,
 			"taskTitle": "QPP ",
 			"taskDescription": []
 		}
